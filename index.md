@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-- Hi, I am He Nie and seek an academic job in 2022-2023.
+- Hi, I am currently on the Job Market (2022-2023), and will be available for interviews.
 - Google Citations: 815, H-index: 13, I-10 Index: 16.
 
 ## Research Interests
@@ -65,6 +65,5 @@ layout: homepage
 - Global Economy (Instructor: Xuyao Zhang, NUS, UG) 2022 - 23
 
       
-  <br>
 -----------------<br>
 **Less is more.**
