@@ -4,47 +4,39 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Welcome to my homepage
+- I am a Ph.D. Candidate, He Nie, in Economics at Department of Economics, National University of Singapore.
+- My research interests are Monetary and Fiscal Policy, DSGE, Macro Finance, Banking and Financial Markets, Applied Time Series.
+- Google Citations: 814, H-index: 13, I-10 Index: 16.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Primary:** Monetary and Fiscal Policy, DSGE, Banking and Financial Markets
+- **Secondary** Financial Econometrics, Data Economy
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2022]** Our paper about Forward Guidance appears at <i>Review of Economic Dynamics<i>.
+
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **The Promises (and Perils) of Control-Contingent Forward Guidance**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **He Nie**, Jordan Roulleau-Pasdeloup
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  <i>
+  Review of Economic Dynamics,forthcoming.
+  <i>
+  [[Link](https://doi.org/10.1016/j.red.2022.07.002)] 
+    
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+## Teaching Assistant 
+- Advanced Macroeconomic Theory (Instructor: Jordan Roulleau-Pasdeloup, NUS, G) 2020 - 21
+- Macroeconomic Theory (Instructor: Paul Jackson, NUS, G) 2019 - 20
+- Topic in Economic Theory (Instructor: Zeng Jinli, NUS, G) 2022 - 23
+- International Finance (Instructor: Mun Lai Yoke, NUS, UG) 2020 - 21
+- Applied Econometrics and Data Analysis (Instructor: Edward Vytlacil, Yale, UG) 2020 - 21
+- Financial Economics (Instructor: Mun Lai Yoke, NUS, UG) 2021 - 22
+- Global Economy (Instructor: Xuyao Zhang, NUS, UG) 2022 - 23
