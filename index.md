@@ -3,11 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-
-Welcome to my homepage
-- I am He Nie and seek an academic job in 2022-2023.
+- Hi, I am He Nie and seek an academic job in 2022-2023.
 - Google Citations: 815, H-index: 13, I-10 Index: 16.
-- **Less is more.**
 
 ## Research Interests
 
@@ -66,3 +63,8 @@ Welcome to my homepage
 - Applied Econometrics and Data Analysis (Instructor: Edward Vytlacil, Yale, UG) 2020 - 21
 - Financial Economics (Instructor: Mun Lai Yoke, NUS, UG) 2021 - 22
 - Global Economy (Instructor: Xuyao Zhang, NUS, UG) 2022 - 23
+
+      
+  <br>
+-----------------<br>
+**Less is more.**
