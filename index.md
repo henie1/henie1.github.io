@@ -11,8 +11,8 @@ Welcome to my homepage
 
 ## Research Interests
 
-- **Primary:** Monetary and Fiscal Policy, DSGE, Banking and Financial Markets
-- **Secondary** Financial Econometrics, Data Economy
+- **Primary:** Monetary and Fiscal Policy, DSGE, Banking and Financial Markets, Environmental and Energy Economics
+- **Secondary:** Financial Econometrics, Data Economy
 
 
 ## News
@@ -27,7 +27,7 @@ Welcome to my homepage
   **He Nie**, Jordan Roulleau-Pasdeloup
   <br>
   <i>
-  Review of Economic Dynamics,forthcoming.
+  Review of Economic Dynamics, forthcoming.
   <i>
   [[Link](https://doi.org/10.1016/j.red.2022.07.002)] 
     
