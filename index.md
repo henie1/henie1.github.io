@@ -5,9 +5,9 @@ layout: homepage
 ## About Me
 
 Welcome to my homepage
-- I am a Ph.D. Candidate, He Nie, in Economics at Department of Economics, National University of Singapore.
-- My research interests are Monetary and Fiscal Policy, DSGE, Macro Finance, Banking and Financial Markets, Applied Time Series.
-- Google Citations: 814, H-index: 13, I-10 Index: 16.
+- I am He Nie and seek an academic job in 2022-2023.
+- Google Citations: 815, H-index: 13, I-10 Index: 16.
+- **Less is more.**
 
 ## Research Interests
 
@@ -17,21 +17,47 @@ Welcome to my homepage
 
 ## News
 
+- **[Sep. 2022]** Our paper about Cryptocurrencies <i>R\&R<i> at <i>International Review of Economics \& Finance<i>.
 - **[Aug. 2022]** Our paper about Forward Guidance appears at <i>Review of Economic Dynamics<i>.
+- **[Jun. 2022]** My paper about Gov. spending Multipliers <i>R\&R<i> at <i>Macroeconomic Dynamics<i>.
 
 
-## Publications
+## Selected Publications
 
 - **The Promises (and Perils) of Control-Contingent Forward Guidance**
   <br>
-  **He Nie**, Jordan Roulleau-Pasdeloup
+  with Jordan Roulleau-Pasdeloup
   <br>
   <i>
   Review of Economic Dynamics, forthcoming.
   <i>
   [[Link](https://doi.org/10.1016/j.red.2022.07.002)] 
-    
+ 
+- **Time-varying long-term memory in Bitcoin market**
+   <br>
+   with Jiang, Yonghong, and Ruan, Weihua
+    <br>
+    <i>
+    Finance Research Letters, 2018.
+    <i>
+    [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1544612317306682)]
 
+- **Do cryptocurrencies hedge against EPU and the equity market volatility during COVID-19?–New evidence from quantile coherency analysis**
+     <br>with Jiang, Yonghong et al.
+      <br>
+      <i>
+    Journal of International Financial Markets, Institutions and Money, 2021.
+    <i>
+    [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1042443121000433)]
+      
+- **Co-movement of ASEAN stock markets: New evidence from wavelet and VMD-based copula tests**
+     <br>with Jiang, Yonghong and Monginsidi, Joe Yohanes
+      <br>
+      <i>
+    Economic Modelling, 2017.
+    <i>
+    [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0264999317301074)]
+      
 ## Teaching Assistant 
 - Advanced Macroeconomic Theory (Instructor: Jordan Roulleau-Pasdeloup, NUS, G) 2020 - 21
 - Macroeconomic Theory (Instructor: Paul Jackson, NUS, G) 2019 - 20
