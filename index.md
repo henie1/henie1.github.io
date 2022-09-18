@@ -14,9 +14,9 @@ layout: homepage
 
 ## News
 
-- **[Sep. 2022]** Our paper about Cryptocurrencies <i>R&R<i> at <i>International Review of Economics & Finance<i>.
+- **[Sep. 2022]** Our paper about Cryptocurrencies R&R at <i>International Review of Economics & Finance<i>.
 - **[Aug. 2022]** Our paper about Forward Guidance appears at <i>Review of Economic Dynamics<i>.
-- **[Jun. 2022]** My paper about Gov. Spending Multipliers <i>R&R<i> at <i>Macroeconomic Dynamics<i>.
+- **[Jun. 2022]** My paper about Gov. Spending Multipliers R&R at <i>Macroeconomic Dynamics<i>.
 
 
 ## Selected Publications
