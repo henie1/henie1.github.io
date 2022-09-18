@@ -65,5 +65,4 @@ layout: homepage
 - Global Economy (Instructor: Xuyao Zhang, NUS, UG) 2022 - 23
 
       
------------------<br>
-**Less is more.**
+
