@@ -14,9 +14,9 @@ layout: homepage
 
 ## News
 - **[Sep. 2022]** My new paper about avoiding expectation-driven ZLB is here 
-<div class="links">
-            <a href="/assets/pdf/papers/AELT.pdf" class="btn btn-sm z-depth-0" role="button">.pdf</a>
-          </div>
+             <div class="links">
+            <a href="/assets/pdfs/papers/AELT.pdf" class="btn btn-sm z-depth-0" role="button">.pdf</a>
+             </div>
 - **[Sep. 2022]** Our paper about Cryptocurrencies R&R at <i>International Review of Economics & Finance<i>.
 - **[Aug. 2022]** Our paper about Forward Guidance appears at <i>Review of Economic Dynamics<i>.
 - **[Jun. 2022]** My paper about Gov. Spending Multipliers R&R at <i>Macroeconomic Dynamics<i>.
