@@ -29,8 +29,7 @@ layout: homepage
   <i>
   Review of Economic Dynamics, forthcoming.
   <i>
-  [[Link](https://doi.org/10.1016/j.red.2022.07.002)] 
- 
+  [<a href="https://doi.org/10.1016/j.red.2022.07.002" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>] 
 - **Time-varying long-term memory in Bitcoin market**
    <br>
    with Jiang, Yonghong, and Ruan, Weihua
@@ -38,23 +37,22 @@ layout: homepage
     <i>
     Finance Research Letters, 2018.
     <i>
-    [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1544612317306682)]
-
+    [<a href="[https://doi.org/10.1016/j.red.2022.07.002](https://www.sciencedirect.com/science/article/abs/pii/S1544612317306682)" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>] 
 - **Do cryptocurrencies hedge against EPU and the equity market volatility during COVID-19?–New evidence from quantile coherency analysis**
      <br>with Jiang, Yonghong et al.
       <br>
       <i>
     Journal of International Financial Markets, Institutions and Money, 2021.
     <i>
-    [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1042443121000433)]
-      
+    [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1042443121000433" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]      
 - **Co-movement of ASEAN stock markets: New evidence from wavelet and VMD-based copula tests**
      <br>with Jiang, Yonghong and Monginsidi, Joe Yohanes
       <br>
       <i>
     Economic Modelling, 2017.
     <i>
-    [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0264999317301074)]
+      [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0264999317301074" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>] 
+    
       
 ## Teaching Assistant 
 - Advanced Macroeconomic Theory (Instructor: Jordan Roulleau-Pasdeloup, NUS, G) 2020 - 21
