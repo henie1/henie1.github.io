@@ -37,7 +37,7 @@ layout: homepage
     <i>
     Finance Research Letters, 2018.
     <i>
-    [<a href="[https://doi.org/10.1016/j.red.2022.07.002](https://www.sciencedirect.com/science/article/abs/pii/S1544612317306682)" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>] 
+   [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1544612317306682" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>] 
 - **Do cryptocurrencies hedge against EPU and the equity market volatility during COVID-19?–New evidence from quantile coherency analysis**
      <br>with Jiang, Yonghong et al.
       <br>
