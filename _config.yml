@@ -10,6 +10,10 @@ keywords: minimal academic
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
 
+url: https://henie1.github.io # the base hostname & protocol for your site
+baseurl: /henie1 # the subpath of your site, e.g. /blog/
+last_updated: false # set to true if you want to display last updated in the footer
+
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=L5_-X4sAAAAJ&hl=en
