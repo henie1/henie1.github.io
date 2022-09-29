@@ -15,7 +15,9 @@ layout: homepage
 
 ## News
 - **[Sep. 2022]** My new paper talks about avoiding expectations-driven ZLB with the real cost channel.
-  [<a href="/assets/pdfs/papers/AELT.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]            
+  [<a href="/assets/pdfs/papers/AELT.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
+- **[Sep. 2022]** Our new paper talks about banking lending rate and carbon emission.
+  [<a href="/assets/pdfs/papers/SSRN-id4219603.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Sep. 2022]** Our paper about Cryptocurrencies R&R at <i>International Review of Economics & Finance<i>.
 - **[Aug. 2022]** Our paper about Forward Guidance appears at <i>Review of Economic Dynamics<i>.
 - **[Jun. 2022]** My paper about Gov. Spending Multipliers R&R at <i>Macroeconomic Dynamics<i>.
