@@ -6,7 +6,7 @@ layout: homepage
 - Hi, I am a Ph.D. Job Market Candidate in Economics at NUS (2022-2023) and will be available for interviews.
 - Google Citations: 822, H-index: 13, I-10 Index: 16.
 - <a href="/assets/pdfs/CV/CV_HeNie.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Click here to download my Curriculum Vitae.</a>
-- <a href="/assets/pdfs/CV/research_statements.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Click here to download my Research Statements.</a>
+- <a href="/assets/pdfs/CV/research_statements.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Click here to download my Research Statement.</a>
 
 ## Research Interests
 
