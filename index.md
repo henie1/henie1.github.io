@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 - Hi, I am a Ph.D. Job Market Candidate in Economics at NUS (2022-2023) and will be available for interviews.
-- Google Citations: 822, H-index: 13, I-10 Index: 16.
+- Google Citations: 866, H-index: 13, I-10 Index: 16.
 - <a href="/assets/pdfs/CV/CV_HeNie.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Click here to download my Curriculum Vitae.</a>
 - <a href="/assets/pdfs/CV/research_statements.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Click here to download my Research Statement.</a>
 
@@ -21,6 +21,7 @@ layout: homepage
   [<a href="/assets/pdfs/papers/SSRN-id4219603.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Sep. 2022]** Our paper about Cryptocurrencies R&R at <i>International Review of Economics & Finance<i>.
 - **[Aug. 2022]** Our paper about Forward Guidance appears at <i>Review of Economic Dynamics<i>.
+- **[Jul. 2022]** Our paper (Co-movement of ASEAN stock markets) has been selected in SI: <i>Celebrating Economic Modelling as a top 20 journal in economics in 2022: Its most cited papers in 2017-2021<i>.
 - **[Jun. 2022]** My paper about Gov. Spending Multipliers R&R at <i>Macroeconomic Dynamics<i>.
 
 
