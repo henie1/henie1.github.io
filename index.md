@@ -53,6 +53,7 @@ layout: homepage
 <li><b>Time-varying long-term memory in Bitcoin market</b>
    <br>
    with Jiang, Yonghong, and Ruan, Weihua
+  <br>
     <i>
     Finance Research Letters, 2018.
     <i>
