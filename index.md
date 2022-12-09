@@ -32,8 +32,8 @@ layout: homepage
   with Jordan Roulleau-Pasdeloup <br>
   Key insights: We develop a model with control-contingent forward guidance: the central bank explicitly anchors future policy announcements to short run inflation. We show analytically that control-contingent forward guidance can rid the model of sunspot liquidity traps. We also leverage this new framework to formally show that announced interest rates are only a means to an end: what truly matters is expected inflation.<br>
   Review of Economic Dynamics, forthcoming.
-2. **Government Spending Multipliers with the Real Cost Channel** <br>
-  Macroeconomic Dynamics, R&R.
+2. **Government Spending Multipliers with the Real Cost Channel(Sole author)** <br>
+  <i>Macroeconomic Dynamics<i>, R&R.
   
 - **Quantitative modelling and financial econometrics modelling:**
 1. **[Time-varying long-term memory in Bitcoin market](https://doi.org/10.1016/j.frl.2017.12.009)** <br>
