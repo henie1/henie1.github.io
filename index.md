@@ -28,43 +28,23 @@ layout: homepage
 
 ## Selected Works
 - **Macroeconomic effects of monetary and fiscal policy in tractable DSGE models:**
-
 1. **The Promises (and Perils) of Control-Contingent Forward Guidance (JMP)** <br>
   with Jordan Roulleau-Pasdeloup <br>
   Key insights: We develop a model with control-contingent forward guidance: the central bank explicitly anchors future policy announcements to short run inflation. We show analytically that control-contingent forward guidance can rid the model of sunspot liquidity traps. We also leverage this new framework to formally show that announced interest rates are only a means to an end: what truly matters is expected inflation.<br>
   [Review of Economic Dynamics, forthcoming](https://doi.org/10.1016/j.red.2022.07.002).
-
 2. **Government Spending Multipliers with the Real Cost Channel** <br>
   Macroeconomic Dynamics, R&R.
   
 - **Quantitative modelling and financial econometrics modelling:**
-<ol>
-<li><b>Time-varying long-term memory in Bitcoin market</b>
-   <br>
-   with Jiang, Yonghong, and Ruan, Weihua
-  <br>
-    <i>
-    Finance Research Letters, 2018.
-    <i>
-   [<a href="https://doi.org/10.1016/j.frl.2017.12.009" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>] 
-</li>  
-<li><b>Do cryptocurrencies hedge against EPU and the equity market volatility during COVID-19?–New evidence from quantile coherency analysis</b>
-     <br>with Jiang, Yonghong et al.
-      <br>
-      <i>
-    Journal of International Financial Markets, Institutions and Money, 2021.
-    <i>
-    [<a href="https://doi.org/10.1016/j.intfin.2021.101324" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
-      </li>
- <li><b>Co-movement of ASEAN stock markets: New evidence from wavelet and VMD-based copula tests</b>
-     <br>with Jiang, Yonghong and Monginsidi, Joe Yohanes
-      <br>
-      <i>
-    Economic Modelling, 2017.
-    <i>
-      [<a href="https://doi.org/10.1016/j.econmod.2017.04.012" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>] 
-      </li>
-</ol>    
+1. **Time-varying long-term memory in Bitcoin market** <br>
+   with Jiang, Yonghong, and Ruan, Weihua <br>
+   [Finance Research Letters, 2018](https://doi.org/10.1016/j.frl.2017.12.009).
+2. **Do cryptocurrencies hedge against EPU and the equity market volatility during COVID-19?–New evidence from quantile coherency analysis** <br>
+     with Jiang, Yonghong et al.<br>
+    [Journal of International Financial Markets, Institutions and Money, 2021](https://doi.org/10.1016/j.intfin.2021.101324).
+3. **Co-movement of ASEAN stock markets: New evidence from wavelet and VMD-based copula test** <br>
+     with Jiang, Yonghong and Monginsidi, Joe Yohanes <br>
+     [Economic Modelling, 2017](https://doi.org/10.1016/j.econmod.2017.04.012).  
       
 ## Teaching Assistant 
 - Advanced Macroeconomic Theory (Instructor: Jordan Roulleau-Pasdeloup, NUS, G) 2020 - 21
