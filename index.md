@@ -29,22 +29,13 @@ layout: homepage
 ## Selected Works
 - **Macroeconomic effects of monetary and fiscal policy in tractable DSGE models:**
 
-1. <b>The Promises (and Perils) of Control-Contingent Forward Guidance (JMP)</b>
-  <br>
-  with Jordan Roulleau-Pasdeloup
-  <br>Key insights: We develop a model with control-contingent forward guidance: the central bank explicitly anchors future policy announcements to short run inflation. We show analytically that control-contingent forward guidance can rid the model of sunspot liquidity traps. We also leverage this new framework to formally show that announced interest rates are only a means to an end: what truly matters is expected inflation.
-  <br>
-  <i>
-  Review of Economic Dynamics, forthcoming.
-  <i>
-  [<a href="https://doi.org/10.1016/j.red.2022.07.002" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
+1. **The Promises (and Perils) of Control-Contingent Forward Guidance (JMP)** <br>
+  with Jordan Roulleau-Pasdeloup <br>
+  Key insights: We develop a model with control-contingent forward guidance: the central bank explicitly anchors future policy announcements to short run inflation. We show analytically that control-contingent forward guidance can rid the model of sunspot liquidity traps. We also leverage this new framework to formally show that announced interest rates are only a means to an end: what truly matters is expected inflation.<br>
+  [Review of Economic Dynamics, forthcoming](https://doi.org/10.1016/j.red.2022.07.002).
 
-  
-2. <b>Government Spending Multipliers with the Real Cost Channel</b>
-  <br>
-  <i>
+2. **Government Spending Multipliers with the Real Cost Channel** <br>
   Macroeconomic Dynamics, R&R.
-  <i>
   
 - **Quantitative modelling and financial econometrics modelling:**
 <ol>
