@@ -31,20 +31,20 @@ layout: homepage
 1. **[The Promises (and Perils) of Control-Contingent Forward Guidance (JMP)](https://doi.org/10.1016/j.red.2022.07.002)** <br>
   with Jordan Roulleau-Pasdeloup <br>
   Key insights: We develop a model with control-contingent forward guidance: the central bank explicitly anchors future policy announcements to short run inflation. We show analytically that control-contingent forward guidance can rid the model of sunspot liquidity traps. We also leverage this new framework to formally show that announced interest rates are only a means to an end: what truly matters is expected inflation.<br>
-  Review of Economic Dynamics, forthcoming.
+  *Review of Economic Dynamics*, forthcoming.
 2. **Government Spending Multipliers with the Real Cost Channel(Sole author)** <br>
-  <i>Macroeconomic Dynamics<i>, R&R.
+  *Macroeconomic Dynamics*, R&R.
   
 - **Quantitative modelling and financial econometrics modelling:**
 1. **[Time-varying long-term memory in Bitcoin market](https://doi.org/10.1016/j.frl.2017.12.009)** <br>
    with Jiang, Yonghong, and Ruan, Weihua <br>
-   Finance Research Letters, 2018.
+   *Finance Research Letters*, 2018.
 2. **[Do cryptocurrencies hedge against EPU and the equity market volatility during COVID-19?–New evidence from quantile coherency analysis](https://doi.org/10.1016/j.intfin.2021.101324)** <br>
      with Jiang, Yonghong et al.<br>
-    Journal of International Financial Markets, Institutions and Money, 2021.
-3. **[Co-movement of ASEAN stock markets: New evidence from wavelet and VMD-based copula test](https://doi.org/10.1016/j.econmod.2017.04.012)** <br>
+    *Journal of International Financial Markets, Institutions and Money*, 2021.
+3. **[Co-movement of ASEAN stock markets: New evidence from wavelet and VMD-based copula tests](https://doi.org/10.1016/j.econmod.2017.04.012)** <br>
      with Jiang, Yonghong and Monginsidi, Joe Yohanes <br>
-     Economic Modelling, 2017.  
+     *Economic Modelling*, 2017.  
       
 ## Teaching Assistant 
 - Advanced Macroeconomic Theory (Instructor: Jordan Roulleau-Pasdeloup, NUS, G) 2020 - 21
