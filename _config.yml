@@ -12,7 +12,7 @@ canonical: https://minimal-light.yyliu.net/
 
 url: https://henie1.github.io # the base hostname & protocol for your site
 baseurl: /henie1 # the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
