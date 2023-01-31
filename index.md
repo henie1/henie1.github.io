@@ -10,7 +10,7 @@ layout: homepage
 
 ## Research Interests
 
-- **Primary:** Monetary and Fiscal Policy, DSGE, Banking and Financial Markets, Data Economy
+- **Primary:** Monetary and Fiscal Policy, DSGE, Banking and Financial Markets
 - **Secondary:** Financial Econometrics, Environmental and Energy Economics
 
 
