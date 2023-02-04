@@ -13,15 +13,11 @@ layout: homepage
 
 
 ## News     
-- **[Jan. 2023]** Our paper about Cryptocurrencies appears at <i>International Review of Economics & Finance<i>.
+- **[Jan. 2023]** Our paper about Cryptocurrencies appears at <i>International Review of Economics & Finance<i>.[<a href="https://doi.org/10.1016/j.iref.2023.01.015" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Oct. 2022]** My new paper talks about avoiding expectations-driven ZLB with the real cost channel.
   [<a href="/assets/pdfs/papers/AELT.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Sep. 2022]** Our new paper talks about banking lending rate and carbon emission.
   [<a href="/assets/pdfs/papers/SSRN-id4219603.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
-- **[Aug. 2022]** Our paper about Forward Guidance appears at <i>Review of Economic Dynamics<i>.
-- **[Jul. 2022]** Our paper (Co-movement of ASEAN stock markets) has been selected in SI: 
-  <a href="https://www.sciencedirect.com/journal/economic-modelling/special-issue/10XLNVGLQWL" target="_blank" class="btn btn-sm z-depth-0" role="button">Celebrating Economic Modelling as a top 20 journal in economics in 2022: Its most cited papers in 2017-2021</a>.
-- **[Jun. 2022]** My paper about Gov. Spending Multipliers R&R at <i>Macroeconomic Dynamics<i>.
 
 
 ## Selected Works
