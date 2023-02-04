@@ -3,14 +3,13 @@ layout: homepage
 ---
 
 ## About Me
-- Hi, I am a Ph.D. Job Market Candidate in Economics at NUS (2022-2023) and will be available for interviews.
-- Google Citations: 949, H-index: 14, I-10 Index: 17.
+- Hi, I am a Ph.D. Job Market Candidate in Economics at NUS (2022-2023).
+- Google Citations: 955, H-index: 14, I-10 Index: 17.
 
 
 ## Research Interests
 
-- **Primary:** Monetary and Fiscal Policy, DSGE, Banking and Financial Markets
-- **Secondary:** Financial Econometrics, Environmental and Energy Economics
+- Monetary and Fiscal Policy, Banking and Financial Markets, Environmental and Energy Economics
 
 
 ## News     
@@ -45,14 +44,6 @@ layout: homepage
      with Jiang, Yonghong and Monginsidi, Joe Yohanes <br>
      *Economic Modelling*, 2017.  
       
-## Teaching Assistant 
-- Advanced Macroeconomic Theory (Instructor: Jordan Roulleau-Pasdeloup, NUS, G) 2020 - 21
-- Macroeconomic Theory (Instructor: Paul Jackson, NUS, G) 2019 - 20
-- Topic in Economic Theory (Instructor: Zeng Jinli, NUS, G) 2022 - 23
-- International Finance (Instructor: Mun Lai Yoke, NUS, UG) 2020 - 21
-- Applied Econometrics and Data Analysis (Instructor: Edward Vytlacil, Yale, UG) 2020 - 21
-- Financial Economics (Instructor: Mun Lai Yoke, NUS, UG) 2021 - 22
-- Global Economy (Instructor: Xuyao Zhang, NUS, UG) 2022 - 23
 
 <a href="https://info.flagcounter.com/HPoq"><img src="https://s11.flagcounter.com/count2/HPoq/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>      
 
