@@ -3,8 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-- Hi, I am a Ph.D. Job Market Candidate in Economics at NUS (2022-2023).
-- Google Citations: 955, H-index: 14, I-10 Index: 17.
+- Ph.D. Job Market Candidate in Economics, NUS; Associate Editor, [Financial Economics Letters](https://anser.press/index.php/FEL).
 
 
 ## Research Interests
