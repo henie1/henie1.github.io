@@ -3,8 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-- Hi, I am a Ph.D. Job Market Candidate in Economics at NUS (2022-2023).
-- Google Citations: 955, H-index: 14, I-10 Index: 17.
+- Ph.D. Job Market Candidate in Economics, NUS; Associate Editor, [Financial Economics Letters](https://anser.press/index.php/FEL).
 
 
 ## Research Interests
@@ -24,7 +23,6 @@ layout: homepage
 - **Macroeconomic effects of monetary and fiscal policy in tractable DSGE models:**
 1. **[The Promises (and Perils) of Control-Contingent Forward Guidance](https://doi.org/10.1016/j.red.2022.07.002)** <br>
   with Jordan Roulleau-Pasdeloup <br>
-  Key insights: We develop a model with control-contingent forward guidance: the central bank explicitly anchors future policy announcements to short run inflation. We show analytically that control-contingent forward guidance can rid the model of sunspot liquidity traps. We also leverage this new framework to formally show that announced interest rates are only a means to an end: what truly matters is expected inflation.<br>
   *Review of Economic Dynamics*, 2023.
 2. **<a href="/assets/pdfs/papers/SMC.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Government Spending Multipliers with the Real Cost Channel</a>** <br>
   *Macroeconomic Dynamics*, R&R.
