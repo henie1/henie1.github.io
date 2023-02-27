@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-- Ph.D. Job Market Candidate in Economics, NUS; Associate Editor, [Financial Economics Letters](https://anser.press/index.php/FEL).
+- (untenured) Associate Professor in Finance, Wuhan Uni.; Associate Editor, [Financial Economics Letters](https://anser.press/index.php/FEL).
 
 
 ## Research Interests
