@@ -40,7 +40,7 @@ layout: homepage
      *Economic Modelling*, 2017.  
       
 ## Suggested books
-1.**[python_introduction](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2021.pdf)**<by>
+1. **[Introduction to Python for Econometrics, Statistics and Data Analysis](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2021.pdf)**<by>
   by [Kevin Sheppard](https://www.kevinsheppard.com/teaching/python/course/)
 
 <a href="https://info.flagcounter.com/HPoq"><img src="https://s11.flagcounter.com/count2/HPoq/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>      
