@@ -11,7 +11,8 @@ layout: homepage
 - Monetary and Fiscal Policy, Banking and Financial Markets, Environmental and Energy Economics
 
 
-## News     
+## News
+- **[Mar. 2023]** My paper about tax policy R&R at *Scandinavian Journal of Economics*.
 - **[Jan. 2023]** Our paper about Cryptocurrencies appears at *International Review of Economics & Finance*.
   [<a href="https://doi.org/10.1016/j.iref.2023.01.015" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Oct. 2022]** My new paper talks about avoiding expectations-driven ZLB with the real cost channel.
