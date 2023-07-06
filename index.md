@@ -12,7 +12,7 @@ layout: homepage
 
 
 ## News
-- **[May. 2023]** My paper about Gov spending appears at *Macroeconomic Dynamics*.
+- **[May. 2023]** My paper about Gov spending appears at *Macroeconomic Dynamics*.[<a href="https://doi.org/10.1017/S1365100523000251" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Mar. 2023]** My paper about tax policy R&R at *Scandinavian Journal of Economics*.
 - **[Jan. 2023]** Our paper about Cryptocurrencies appears at *International Review of Economics & Finance*.
   [<a href="https://doi.org/10.1016/j.iref.2023.01.015" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
@@ -27,7 +27,7 @@ layout: homepage
 1. **[The Promises (and Perils) of Control-Contingent Forward Guidance](https://doi.org/10.1016/j.red.2022.07.002)** <br>
   with Jordan Roulleau-Pasdeloup <br>
   *Review of Economic Dynamics*, 2023.
-2. **<a href="/assets/pdfs/papers/SMC.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Government Spending Multipliers with the Real Cost Channel</a>** <br>
+2. **[Government Spending Multipliers with the Real Cost Channel](https://doi.org/10.1017/S1365100523000251)** <br>
   *Macroeconomic Dynamics*, forthcoming.
   
 - **Quantitative modelling and financial econometrics modelling:**
