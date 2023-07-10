@@ -12,7 +12,7 @@ layout: homepage
 
 
 ## News
-- **[Jul. 2023]** Our new paper talks about banking lending rate and carbon emission R&R at *Journal of Economic Behavior and Organization*.
+- **[Jul. 2023]** Our paper talks about banking lending rate and carbon emission R&R at *Journal of Economic Behavior and Organization*.
 - **[May. 2023]** My paper about Gov spending appears at *Macroeconomic Dynamics*.[<a href="https://doi.org/10.1017/S1365100523000251" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Mar. 2023]** My paper about tax policy R&R at *Scandinavian Journal of Economics*.
 - **[Jan. 2023]** Our paper about Cryptocurrencies appears at *International Review of Economics & Finance*.
