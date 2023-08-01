@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-- (untenured) Associate Professor in Finance, Wuhan Uni.; Associate Editor, [*Financial Economics Letters*](https://anser.press/index.php/FEL).
+- (untenured) Associate Professor in Finance, Wuhan Uni.; Associate Editor, [*Financial Economics Letters*](https://www.anserpress.org/journal/fel).
 
 
 ## Research Interests
