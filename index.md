@@ -12,22 +12,21 @@ layout: homepage
 
 
 ## News
+- **[Aug. 2023]** My new paper talks about avoiding expectations-driven ZLB with the real cost channel.
+  [<a href="/assets/pdfs/papers/RSun.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
+- **[Jul. 2023]** Our paper talks about banking lending rate and carbon emission R&R at *Journal of Economic Behavior and Organization*.
+- **[May. 2023]** My paper about Gov spending appears at *Macroeconomic Dynamics*.[<a href="https://doi.org/10.1017/S1365100523000251" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Mar. 2023]** My paper about tax policy R&R at *Scandinavian Journal of Economics*.
 - **[Jan. 2023]** Our paper about Cryptocurrencies appears at *International Review of Economics & Finance*.
   [<a href="https://doi.org/10.1016/j.iref.2023.01.015" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
-- **[Oct. 2022]** My new paper talks about avoiding expectations-driven ZLB with the real cost channel.
-  [<a href="/assets/pdfs/papers/AELT.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
-- **[Sep. 2022]** Our new paper talks about banking lending rate and carbon emission.
-  [<a href="/assets/pdfs/papers/SSRN-id4219603.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
-
 
 ## Selected Works
 - **Macroeconomic effects of monetary and fiscal policy in tractable DSGE models:**
 1. **[The Promises (and Perils) of Control-Contingent Forward Guidance](https://doi.org/10.1016/j.red.2022.07.002)** <br>
   with Jordan Roulleau-Pasdeloup <br>
   *Review of Economic Dynamics*, 2023.
-2. **<a href="/assets/pdfs/papers/SMC.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Government Spending Multipliers with the Real Cost Channel</a>** <br>
-  *Macroeconomic Dynamics*, R&R.
+2. **[Government Spending Multipliers with the Real Cost Channel](https://doi.org/10.1017/S1365100523000251)** <br>
+  *Macroeconomic Dynamics*, forthcoming.
   
 - **Quantitative modelling and financial econometrics modelling:**
 1. **[Time-varying long-term memory in Bitcoin market](https://doi.org/10.1016/j.frl.2017.12.009)** <br>
