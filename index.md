@@ -36,9 +36,9 @@ layout: homepage
 2. **[Do cryptocurrencies hedge against EPU and the equity market volatility during COVID-19?–New evidence from quantile coherency analysis](https://doi.org/10.1016/j.intfin.2021.101324)** <br>
      with Jiang, Yonghong et al.<br>
     *Journal of International Financial Markets, Institutions and Money*, 2021.
-3. **[Co-movement of ASEAN stock markets: New evidence from wavelet and VMD-based copula tests](https://doi.org/10.1016/j.econmod.2017.04.012)** <br>
-     with Jiang, Yonghong and Monginsidi, Joe Yohanes <br>
-     *Economic Modelling*, 2017.  
+3. **[The dynamics of crude oil future prices on China's energy markets: Quantile‐on‐quantile and casualty‐in‐quantiles approaches](https://doi.org/10.1002/fut.22459)** <br>
+     with Meng, Juan and Mo, Bin <br>
+     *Journal of Futures Markets*, 2023.  
       
 ## Suggested books
 1. **[Introduction to Python for Econometrics, Statistics and Data Analysis](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2021.pdf)**<by>
