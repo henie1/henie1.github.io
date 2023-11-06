@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-- (untenured) Associate Professor in Finance, Wuhan Uni.; Associate Editor, [*Financial Economics Letters*](https://anser.press/index.php/FEL).
+- (untenured) Associate Professor in Finance, Wuhan Uni.; Associate Editor, [*Financial Economics Letters*](https://www.anserpress.org/journal/fel).
 
 
 ## Research Interests
@@ -12,9 +12,10 @@ layout: homepage
 
 
 ## News
+- **[Nov. 2023]** Our paper about banking lending rate and carbon emission R&R at *Journal of Economic Behavior and Organization*. [<a href="/assets/pdfs/papers/EELR.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
+- **[Aug. 2023]** Our new paper about oil shocks on China's energy markets will appear at *Journal of Futures Markets*.
 - **[Aug. 2023]** My new paper talks about avoiding expectations-driven ZLB with the real cost channel.
   [<a href="/assets/pdfs/papers/RSun.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
-- **[Jul. 2023]** Our paper talks about banking lending rate and carbon emission R&R at *Journal of Economic Behavior and Organization*.
 - **[May. 2023]** My paper about Gov spending appears at *Macroeconomic Dynamics*.[<a href="https://doi.org/10.1017/S1365100523000251" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Mar. 2023]** My paper about tax policy R&R at *Scandinavian Journal of Economics*.
 - **[Jan. 2023]** Our paper about Cryptocurrencies appears at *International Review of Economics & Finance*.
@@ -35,9 +36,9 @@ layout: homepage
 2. **[Do cryptocurrencies hedge against EPU and the equity market volatility during COVID-19?–New evidence from quantile coherency analysis](https://doi.org/10.1016/j.intfin.2021.101324)** <br>
      with Jiang, Yonghong et al.<br>
     *Journal of International Financial Markets, Institutions and Money*, 2021.
-3. **[Co-movement of ASEAN stock markets: New evidence from wavelet and VMD-based copula tests](https://doi.org/10.1016/j.econmod.2017.04.012)** <br>
-     with Jiang, Yonghong and Monginsidi, Joe Yohanes <br>
-     *Economic Modelling*, 2017.  
+3. **[The dynamics of crude oil future prices on China's energy markets: Quantile‐on‐quantile and casualty‐in‐quantiles approaches](https://doi.org/10.1002/fut.22459)** <br>
+     with Meng, Juan and Mo, Bin <br>
+     *Journal of Futures Markets*, 2023.  
       
 ## Suggested books
 1. **[Introduction to Python for Econometrics, Statistics and Data Analysis](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2021.pdf)**<by>
