@@ -12,15 +12,12 @@ layout: homepage
 
 
 ## News
+- **[Feb. 2024]** Our new paper about Salience theory in Cryptocurrency returns and trading volume. 
 - **[Nov. 2023]** Our paper about the effects of geopolitical risks on commodities appears at *Energy*. 
 - **[Nov. 2023]** Our paper about banking lending rate and carbon emission R&R at *Journal of Economic Behavior and Organization*. [<a href="/assets/pdfs/papers/EELR.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Aug. 2023]** Our new paper about oil shocks on China's energy markets appears at *Journal of Futures Markets*.
 - **[Aug. 2023]** My new paper talks about avoiding expectations-driven ZLB with the real cost channel.
   [<a href="/assets/pdfs/papers/RSun.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
-- **[May. 2023]** My paper about Gov spending appears at *Macroeconomic Dynamics*.[<a href="https://doi.org/10.1017/S1365100523000251" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
-- **[Mar. 2023]** My paper about tax policy R&R at *Scandinavian Journal of Economics*.
-- **[Jan. 2023]** Our paper about Cryptocurrencies appears at *International Review of Economics & Finance*.
-  [<a href="https://doi.org/10.1016/j.iref.2023.01.015" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 
 ## Selected Works
 - **Macroeconomic effects of monetary and fiscal policy in tractable DSGE models:**
@@ -28,7 +25,7 @@ layout: homepage
   with Jordan Roulleau-Pasdeloup <br>
   *Review of Economic Dynamics*, 2023.
 2. **[Government Spending Multipliers with the Real Cost Channel](https://doi.org/10.1017/S1365100523000251)** <br>
-  *Macroeconomic Dynamics*, forthcoming.
+  *Macroeconomic Dynamics*, 2024.
   
 - **Quantitative modelling and financial econometrics modelling:**
 1. **[Time-varying long-term memory in Bitcoin market](https://doi.org/10.1016/j.frl.2017.12.009)** <br>
@@ -40,8 +37,13 @@ layout: homepage
 3. **[The dynamics of crude oil future prices on China's energy markets: Quantile‐on‐quantile and casualty‐in‐quantiles approaches](https://doi.org/10.1002/fut.22459)** <br>
      with Meng, Juan and Mo, Bin <br>
      *Journal of Futures Markets*, 2023.  
-      
-## Suggested books
+
+## Text Books
+1. Macroeconomics:  [<a href="/assets/pdfs/textbook/西方经济学（第二版）下册.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">马工程</a>]; [<a href="/assets/pdfs/textbook/Macroeconomics (N. Gregory Mankiw).pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Mankiw</a>];
+2. International Finance: [<a href="/assets/pdfs/textbook/国际经济学：理论与政策.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">国际经济学</a>];
+
+
+## Suggested Books
 1. **[Introduction to Python for Econometrics, Statistics and Data Analysis](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2021.pdf)**<by>
   by <a href="https://www.kevinsheppard.com/teaching/python/course/" target="_blank" class="btn btn-sm z-depth-0" role="button">Kevin Sheppard</a>
 
