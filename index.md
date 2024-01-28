@@ -40,7 +40,7 @@ layout: homepage
 
 ## TextBooks
 1. Macroeconomics:  <a href="/assets/pdfs/textbook/西方经济学（第二版）下册.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">马工程</a>; <a href="/assets/pdfs/textbook/Macroeconomics (N. Gregory Mankiw).pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Mankiw</a>;
-2. International Finance: [国际经济学：理论与政策](https://pan.baidu.com/s/1Vs-nLqLe5qJc7Fka_B_nHw?pwd=9p8a)
+2. International Finance: [国际经济学：理论与政策](https://pan.baidu.com/s/1Vs-nLqLe5qJc7Fka_B_nHw?pwd=9p8a);
 
 
 ## Suggested Books
