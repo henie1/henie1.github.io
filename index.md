@@ -12,7 +12,7 @@ layout: homepage
 
 
 ## News
-- **[Feb. 2024]** Our new paper about Salience theory in Cryptocurrency returns and trading volume. 
+- **[Feb. 2024]** Our new paper about Salience theory in Cryptocurrency returns and trading volume. [<a href="/assets/pdfs/papers/Crpto_ST.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Nov. 2023]** Our paper about the effects of geopolitical risks on commodities appears at *Energy*. 
 - **[Nov. 2023]** Our paper about banking lending rate and carbon emission R&R at *Journal of Economic Behavior and Organization*. [<a href="/assets/pdfs/papers/EELR.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Aug. 2023]** Our new paper about oil shocks on China's energy markets appears at *Journal of Futures Markets*.
