@@ -41,6 +41,7 @@ layout: homepage
 ## TextBooks
 1. Macroeconomics:  <a href="/assets/pdfs/textbook/西方经济学（第二版）下册.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">马工程</a>; <a href="/assets/pdfs/textbook/Macroeconomics (N. Gregory Mankiw).pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Mankiw</a>;
 2. International Finance: [International economics  theory and policy (Paul R. Krugman, Maurice Obstfeld etc.)](https://pan.baidu.com/s/1UkSc48EGvddarSHBUhZzNg?pwd=mznc);
+<a href="/assets/pdfs/textbook/International Macroeconomics.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">International Macroeconomics</a>;
 
 
 ## Suggested Books
