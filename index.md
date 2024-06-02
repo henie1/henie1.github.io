@@ -13,6 +13,7 @@ layout: homepage
 
 ## News
 - **[Jun. 2024]** Why is consumption tax policy ineffective at ZLB? Our paper presents a new explanation.
+- **[May. 2024]** What effect does the unexpected monetary policy have on corporate asset allocation? Does it exacerbate the trend of corporate financialization? Our latest paper offers a new explanation.
 - **[Feb. 2024]** Our new paper about Salience theory in Cryptocurrency returns and trading volume. [<a href="/assets/pdfs/papers/Crpto_ST.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 - **[Nov. 2023]** Our paper about the effects of geopolitical risks on commodities appears at *Energy*. 
 - **[Aug. 2023]** My new paper talks about avoiding expectations-driven ZLB with the real cost channel.
