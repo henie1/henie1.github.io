@@ -12,6 +12,7 @@ layout: homepage
 
 
 ## News
+- **[Jun. 2024]** Can Local Happiness Attract Corporate Investment in China? Our study finds that companies invest more in happier regions, especially private firms and when GDP differences are small. These results confirm the "Talent Siphon Effect" and offer new insights into the "Lucas Paradox."
 - **[Jun. 2024]** Why is consumption tax policy ineffective at ZLB? Our paper presents a new explanation.
 - **[May. 2024]** What effect does the unexpected monetary policy have on corporate asset allocation? Does it exacerbate the trend of corporate financialization? Our latest paper offers a new explanation.
 - **[Feb. 2024]** Our new paper about Salience theory in Cryptocurrency returns and trading volume. [<a href="/assets/pdfs/papers/Crpto_ST.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
