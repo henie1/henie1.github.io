@@ -8,7 +8,7 @@ layout: homepage
 
 ## Research Interests
 
-- Monetary and Fiscal Policy, Banking and Financial Markets, Environmental and Energy Economics
+- Macroeconomics, Asset Pricing
 
 
 ## News
