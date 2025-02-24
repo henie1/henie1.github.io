@@ -12,13 +12,10 @@ layout: homepage
 
 
 ## News
+- **[Feb. 2025]** In China, low inflation, and high real rates twist policy gears. We find that active fiscal and moderate monetary policies mitigate demand shock effects.
 - **[Dec. 2024]** We find that the real cost channel explains the flattening of the Phillips Curve for China, which appears in *Economics Letters*.
 - **[Dec. 2024]** Our new paper discusses Firm Productivity and Leverage Ratio. 
-- **[Nov. 2024]** Does the real cost channel exist in China? How should China's optimal fiscal-monetary policy coordination take this channel into account? Our paper provides a new perspective.
 - **[Nov. 2024]** My paper on avoiding expectations-driven zero lower bound (ZLB) with the real cost channel has been awarded the **First Prize** at the 21st Chinese Finance Annual Meeting.
-- **[Sep. 2024]** We propose a model to improve the interpretability of dimension reduction estimation methods for latent factors: Manifold-based Sparse Principal Component Analysis (MSPCA).
-- **[Jun. 2024]** Why is consumption tax policy ineffective at ZLB? Our paper presents a new explanation.
-- **[Feb. 2024]** Our new paper about Salience theory in Cryptocurrency returns and trading volume. [<a href="/assets/pdfs/papers/Crpto_ST.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">Link</a>]
 
 ## Selected Works
 - **Macroeconomic effects of monetary and fiscal policy in tractable DSGE models:**
