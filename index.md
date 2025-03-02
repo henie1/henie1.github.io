@@ -26,13 +26,10 @@ layout: homepage
   *Macroeconomic Dynamics*, 2024.
   
 - **Quantitative modelling and financial econometrics modelling:**
-1. **[Time-varying long-term memory in Bitcoin market](https://doi.org/10.1016/j.frl.2017.12.009)** <br>
-   with Jiang, Yonghong, and Ruan, Weihua <br>
-   *Finance Research Letters*, 2018.
-2. **[Do cryptocurrencies hedge against EPU and the equity market volatility during COVID-19?–New evidence from quantile coherency analysis](https://doi.org/10.1016/j.intfin.2021.101324)** <br>
+1. **[Do cryptocurrencies hedge against EPU and the equity market volatility during COVID-19?–New evidence from quantile coherency analysis](https://doi.org/10.1016/j.intfin.2021.101324)** <br>
      with Jiang, Yonghong et al.<br>
     *Journal of International Financial Markets, Institutions and Money*, 2021.
-3. **[The dynamics of crude oil future prices on China's energy markets: Quantile‐on‐quantile and casualty‐in‐quantiles approaches](https://doi.org/10.1002/fut.22459)** <br>
+2. **[The dynamics of crude oil future prices on China's energy markets: Quantile‐on‐quantile and casualty‐in‐quantiles approaches](https://doi.org/10.1002/fut.22459)** <br>
      with Meng, Juan and Mo, Bin <br>
      *Journal of Futures Markets*, 2023.  
 
