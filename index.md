@@ -12,11 +12,10 @@ layout: homepage
 
 
 ## News
-- **[Mar. 2025]** Our paper talks about optimizing green subsidy policies, which appears in *Energy Economics*.
+- **[Mar. 2025]** Our paper discusses optimizing green subsidy policies, which appears in *Energy Economics*.
 - **[Feb. 2025]** In China, low inflation, and high real rates twist policy gears. We find that active fiscal and moderate monetary policies mitigate demand shock effects.
 - **[Dec. 2024]** We find that the real cost channel explains the flattening of the Phillips Curve for China, which appears in *Economics Letters*.
 - **[Dec. 2024]** Our new paper discusses Firm Productivity and Leverage Ratio. 
-- **[Nov. 2024]** My paper on avoiding expectations-driven zero lower bound (ZLB) with the real cost channel has been awarded the **First Prize** at the 21st Chinese Finance Annual Meeting.
 
 ## Selected Works
 - **Macroeconomic effects of monetary and fiscal policy in tractable DSGE models:**
