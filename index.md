@@ -12,9 +12,8 @@ layout: homepage
 
 
 ## News
-- **[Mar. 2025]** Our paper discusses optimizing green subsidy policies, which appears in *Energy Economics*.
+- **[May. 2025]** Our paper discusses Sustainability-Linked Lending, which appears in *International Review of Financial Analysis*.
 - **[Feb. 2025]** In China, low inflation, and high real rates twist policy gears. We find that active fiscal and moderate monetary policies mitigate demand shock effects.
-- **[Dec. 2024]** We find that the real cost channel explains the flattening of the Phillips Curve for China, which appears in *Economics Letters*.
 - **[Dec. 2024]** Our new paper discusses Firm Productivity and Leverage Ratio. 
 
 ## Selected Works
