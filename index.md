@@ -12,9 +12,9 @@ layout: homepage
 
 
 ## News
-- **[May. 2025]** Our paper discusses Sustainability-Linked Lending, which appears in *International Review of Financial Analysis*.
+- **[Jun. 2025]** Empirically, migration increases housing price dispersion and raises inequality. We explain this with a two-asset heterogeneous-agent general equilibrium model, where real estate acts as the key channel connecting migration and inequality.
 - **[Feb. 2025]** In China, low inflation, and high real rates twist policy gears. We find that active fiscal and moderate monetary policies mitigate demand shock effects.
-- **[Dec. 2024]** Our new paper discusses Firm Productivity and Leverage Ratio. 
+
 
 ## Selected Works
 - **Macroeconomic effects of monetary and fiscal policy in tractable DSGE models:**
