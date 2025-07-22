@@ -12,6 +12,7 @@ layout: homepage
 
 
 ## News
+- **[Jul. 2025]** We are revising a RED R\&R, co-authored with PhD student (WHU), on how consumption taxes influence ZLB duration.
 - **[Jun. 2025]** Empirically, migration increases housing price dispersion and raises inequality. We explain this with a two-asset heterogeneous-agent general equilibrium model, where real estate acts as the key channel connecting migration and inequality.
 - **[Feb. 2025]** In China, low inflation, and high real rates twist policy gears. We find that active fiscal and moderate monetary policies mitigate demand shock effects.
 
