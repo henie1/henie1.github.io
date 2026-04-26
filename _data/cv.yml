@@ -1,0 +1,135 @@
+cv:
+  name: He Nie
+  label: Associate Professor (Untenured) in Finance
+  email: henieecon@gmail.com
+  phone: (+86) 13726247061
+  url: https://henie1.github.io/
+  location: Wuhan, China
+  image: ""
+  summary: >
+    Associate Professor of Finance at Wuhan University. Research interests
+    in macroeconomics and asset pricing, with current work on the real cost
+    channel of monetary transmission, fiscal policy under the zero lower
+    bound, and the empirics of energy and cryptocurrency markets.
+
+  social_networks:
+    - network: GitHub
+      username: henie1
+
+  sections:
+    Education:
+      - institution: National University of Singapore
+        location: Singapore
+        url: https://www.comp.nus.edu.sg/
+        area: Economics
+        studyType: Ph.D.
+        start_date: 2019
+        end_date: 2023
+        highlights:
+          - "Advisor: Prof. Jordan Roulleau-Pasdeloup"
+
+      - institution: Jinan University
+        location: Guangzhou, China
+        url: https://english.jnu.edu.cn/
+        area: Finance
+        studyType: M.A.
+        start_date: 2016
+        end_date: 2019
+        highlights:
+          - "Advisor: Prof. Yonghong Jiang"
+
+      - institution: Jinan University
+        location: Guangzhou, China
+        area: Software Engineering
+        studyType: B.Eng.
+        start_date: 2012
+        end_date: 2016
+
+    Research Interests:
+      - category: Fields
+        items:
+          - Macroeconomics
+          - Asset Pricing
+
+    Selected Publications:
+      - title: "The real cost channel and the Phillips Curve for China"
+        authors: "Nie, H., Yao, J., & Wang, H."
+        venue: "Economics Letters, 247, 112160"
+        year: 2025
+
+      - title: "Optimizing green subsidy policies for decarbonization in Southeast Asia's real estate sector"
+        authors: "Liu, H., Nie, H., Sang, D., Wang, Y., & Zhang, X."
+        venue: "Energy Economics, 108372"
+        year: 2025
+
+      - title: "Can sustainability-linked lending reconcile environmental and financial motives?"
+        authors: "George, A., Huang, J., Nie, H., & Xie, T."
+        venue: "International Review of Financial Analysis, 104317"
+        year: 2025
+
+      - title: "Government spending multipliers with the Real Cost channel"
+        authors: "Nie, H."
+        venue: "Macroeconomic Dynamics, 28(4), 791-812"
+        year: 2024
+
+      - title: "The dynamics of crude oil future prices on China's energy markets: Quantile-on-quantile and causality-in-quantiles approaches"
+        authors: "Meng, J., Mo, B., & Nie, H."
+        venue: "Journal of Futures Markets, 43(12), 1853-1871"
+        year: 2023
+        note: "Among the top 10 most-cited papers in 2023."
+
+      - title: "The promises (and perils) of control-contingent forward guidance"
+        authors: "Nie, H., & Roulleau-Pasdeloup, J."
+        venue: "Review of Economic Dynamics, 49, 77-98"
+        year: 2023
+
+      - title: "Do cryptocurrencies hedge against EPU and the equity market volatility during COVID-19? New evidence from quantile coherency analysis"
+        authors: "Jiang, Y., Wu, L., Tian, G., & Nie, H."
+        venue: "Journal of International Financial Markets, Institutions and Money, 72, 101324"
+        year: 2021
+
+      - title: "Co-movement of ASEAN stock markets: New evidence from wavelet and VMD-based copula tests"
+        authors: "Jiang, Y., Nie, H., & Monginsidi, J. Y."
+        venue: "Economic Modelling, 64, 384-398"
+        year: 2017
+        note: "Among most-cited papers 2017--2021."
+
+    Funded Projects:
+      - title: "Effectiveness of Monetary Policy with the Real Cost Channel in China"
+        role: "Principal Investigator"
+        funder: "National Natural Science Foundation of China (NSFC)"
+        start_date: 2025
+        end_date: 2027
+
+      - title: "Transmission and Effectiveness of Structural Monetary Policy Based on Green Credit"
+        role: "Principal Investigator"
+        funder: "Ministry of Education Humanities and Social Science Fund"
+        start_date: 2025
+        end_date: 2027
+
+    Editorial Service:
+      - role: "Associate Editor"
+        venue: "Financial Economics Letters"
+        url: "https://www.anserpress.org/journal/fel"
+
+    Awards and Honors:
+      - name: "Best Paper Award"
+        venue: "21st Annual Conference of China Finance"
+        year: 2024
+      - name: "Outstanding Young Talent"
+        venue: "Wuhan Talent Plan"
+        year: 2024
+      - name: "Outstanding Self-financed Students Abroad"
+        venue: "China Scholarship Council"
+        year: 2023
+
+    Skills:
+      - category: Languages
+        items:
+          - Chinese (native)
+          - English
+      - category: Programming
+        items:
+          - Python
+          - LaTeX
+          - MATLAB
