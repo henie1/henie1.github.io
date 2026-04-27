@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ems.whu.edu.cn/'>School of Economics and Management</a>, Wuhan University. Associate Editor at <a href='https://www.anserpress.org/journal/fel'><em>Financial Economics Letters</em></a>.
+subtitle: <a href='https://ems.whu.edu.cn/'>School of Economics and Management</a>, Wuhan University. 
 
 profile:
   align: right
