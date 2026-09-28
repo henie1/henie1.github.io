@@ -50,10 +50,12 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-optimizing-green-subsidy-policies-for-decarbonization-in-southeast-asia-s-real-estate-sector-with-h-liu-et-al-accepted-at-energy-economics",
           title: 'New paper Optimizing green subsidy policies for decarbonization in Southeast Asia’s real estate...',
           description: "",
-          section: "News",},{id: "news-new-paper-can-sustainability-linked-lending-reconcile-environmental-and-financial-motives-with-a-george-j-huang-t-xie-accepted-at-international-review-of-financial-analysis",
-          title: 'New paper Can sustainability-linked lending reconcile environmental and financial motives? (with A. George,...',
+          section: "News",},{id: "news-irfa",
+          title: 'Irfa',
           description: "",
-          section: "News",},{id: "news-we-are-revising-a-review-of-economic-dynamics-r-amp-amp-r-co-authored-with-my-phd-student-at-whu-on-how-consumption-taxes-influence-the-duration-of-the-zero-lower-bound",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-06-01-irfa/";
+            },},{id: "news-we-are-revising-a-review-of-economic-dynamics-r-amp-amp-r-co-authored-with-my-phd-student-at-whu-on-how-consumption-taxes-influence-the-duration-of-the-zero-lower-bound",
           title: 'We are revising a Review of Economic Dynamics R&amp;amp;amp;R, co-authored with my PhD...',
           description: "",
           section: "News",},{id: "news-sunspot-traps",
