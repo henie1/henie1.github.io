@@ -62,10 +62,12 @@ ninja.data = [{
           section: "News",},{id: "news-are-existing-ell-1-based-methods-providing-a-fair-benchmark-to-evaluate-the-trade-off-between-weak-dense-and-sparse-strong-factor-views-in-asset-pricing-we-provide-new-insights",
           title: 'Are existing $\ell_1$-based methods providing a fair benchmark to evaluate the trade-off between...',
           description: "",
-          section: "News",},{id: "news-in-china-s-bank-based-system-asset-growth-mixes-liquidity-and-credit-constraints-we-show-that-a-new-ppe-based-investment-factor-fixes-this-better-pricing-power-clearer-link-to-collateral-risk",
-          title: 'In China’s bank-based system, “asset growth” mixes liquidity and credit constraints. We show...',
+          section: "News",},{id: "news-ppe-investment-factor",
+          title: 'Ppe Investment Factor',
           description: "",
-          section: "News",},{id: "news-bitcoin-salience",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-20-ppe-investment-factor/";
+            },},{id: "news-bitcoin-salience",
           title: 'Bitcoin Salience',
           description: "",
           section: "News",handler: () => {
