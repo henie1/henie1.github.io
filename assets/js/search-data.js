@@ -58,12 +58,7 @@ ninja.data = [{
             },},{id: "news-we-are-revising-a-review-of-economic-dynamics-r-amp-amp-r-co-authored-with-my-phd-student-at-whu-on-how-consumption-taxes-influence-the-duration-of-the-zero-lower-bound",
           title: 'We are revising a Review of Economic Dynamics R&amp;amp;amp;R, co-authored with my PhD...',
           description: "",
-          section: "News",},{id: "news-sunspot-traps",
-          title: 'Sunspot Traps',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2025-08-12-sunspot-traps/";
-            },},{id: "news-are-existing-ell-1-based-methods-providing-a-fair-benchmark-to-evaluate-the-trade-off-between-weak-dense-and-sparse-strong-factor-views-in-asset-pricing-we-provide-new-insights-rr-at-econometric-reviews",
+          section: "News",},{id: "news-are-existing-ell-1-based-methods-providing-a-fair-benchmark-to-evaluate-the-trade-off-between-weak-dense-and-sparse-strong-factor-views-in-asset-pricing-we-provide-new-insights-rr-at-econometric-reviews",
           title: 'Are existing $\ell_1$-based methods providing a fair benchmark to evaluate the trade-off between...',
           description: "",
           section: "News",},{id: "news-our-paper-green-collateral-policy-and-firm-level-new-quality-productive-forces-evidence-from-the-pboc-s-2018-collateral-expansion-coauthored-with-rui-ke-and-y-li-has-been-published-in-applied-economics-letters-this-paper-grew-out-of-an-undergraduate-thesis-that-i-supervised-and-it-is-especially-rewarding-to-see-the-project-develop-into-a-published-article",
