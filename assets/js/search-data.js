@@ -64,7 +64,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-green-collateral-policy-and-firm-level-new-quality-productive-forces-evidence-from-the-pboc-s-2018-collateral-expansion-coauthored-with-rui-ke-and-y-li-has-been-published-in-applied-economics-letters-this-paper-grew-out-of-an-undergraduate-thesis-that-i-supervised-and-it-is-especially-rewarding-to-see-the-project-develop-into-a-published-article",
           title: 'Our paper Green Collateral Policy and Firm-Level New Quality Productive Forces: Evidence from...',
           description: "",
-          section: "News",},{id: "news-our-paper-the-real-cost-channel-and-optimal-labor-taxation-at-the-zero-lower-bound-coauthored-with-haoan-wang-and-haochun-ma-has-been-published-in-the-journal-of-public-economic-theory-a-particularly-rewarding-part-of-this-project-has-been-working-closely-with-my-phd-students-and-developing-the-paper-together-from-its-early-stages",
+          section: "News",},{id: "news-our-paper-the-real-cost-channel-and-optimal-labor-taxation-at-the-zero-lower-bound-coauthored-with-haoan-wang-and-haochun-ma-has-been-published-in-the-journal-of-public-economic-theory",
           title: 'Our paper The Real Cost Channel and Optimal Labor Taxation at the Zero...',
           description: "",
           section: "News",},{
