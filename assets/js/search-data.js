@@ -65,10 +65,12 @@ ninja.data = [{
           section: "News",},{id: "news-in-china-s-bank-based-system-asset-growth-mixes-liquidity-and-credit-constraints-we-show-that-a-new-ppe-based-investment-factor-fixes-this-better-pricing-power-clearer-link-to-collateral-risk",
           title: 'In China’s bank-based system, “asset growth” mixes liquidity and credit constraints. We show...',
           description: "",
-          section: "News",},{id: "news-if-bitcoin-is-the-reference-point-for-the-entire-crypto-market-does-salience-in-returns-and-trading-volumes-help-explain-why-some-coins-underperform-yes-in-our-latest-working-paper",
-          title: 'If Bitcoin is the reference point for the entire crypto market, does salience...',
+          section: "News",},{id: "news-bitcoin-salience",
+          title: 'Bitcoin Salience',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-11-15-bitcoin-salience/";
+            },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
