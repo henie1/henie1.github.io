@@ -63,11 +63,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-08-12-sunspot-traps/";
-            },},{id: "news-ppe-investment-factor",
-          title: 'Ppe Investment Factor',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2025-10-20-ppe-investment-factor/";
             },},{id: "news-are-existing-ell-1-based-methods-providing-a-fair-benchmark-to-evaluate-the-trade-off-between-weak-dense-and-sparse-strong-factor-views-in-asset-pricing-we-provide-new-insights-rr-at-econometric-reviews",
           title: 'Are existing $\ell_1$-based methods providing a fair benchmark to evaluate the trade-off between...',
           description: "",
