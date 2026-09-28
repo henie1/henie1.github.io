@@ -55,8 +55,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-06-01-irfa/";
-            },},{id: "news-we-are-revising-a-review-of-economic-dynamics-r-amp-amp-r-co-authored-with-my-phd-student-at-whu-on-how-consumption-taxes-influence-the-duration-of-the-zero-lower-bound",
-          title: 'We are revising a Review of Economic Dynamics R&amp;amp;amp;R, co-authored with my PhD...',
+            },},{id: "news-we-are-revising-a-review-of-economic-dynamics-r-amp-amp-r-co-authored-with-haoan-wang-whu-on-how-consumption-taxes-influence-the-duration-of-the-zero-lower-bound",
+          title: 'We are revising a Review of Economic Dynamics R&amp;amp;amp;R, co-authored with Haoan Wang...',
           description: "",
           section: "News",},{id: "news-are-existing-ell-1-based-methods-providing-a-fair-benchmark-to-evaluate-the-trade-off-between-weak-dense-and-sparse-strong-factor-views-in-asset-pricing-we-provide-new-insights-rr-at-econometric-reviews",
           title: 'Are existing $\ell_1$-based methods providing a fair benchmark to evaluate the trade-off between...',
