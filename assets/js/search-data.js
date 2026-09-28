@@ -68,11 +68,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-20-ppe-investment-factor/";
-            },},{id: "news-bitcoin-salience",
-          title: 'Bitcoin Salience',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2025-11-15-bitcoin-salience/";
             },},{id: "news-are-existing-ell-1-based-methods-providing-a-fair-benchmark-to-evaluate-the-trade-off-between-weak-dense-and-sparse-strong-factor-views-in-asset-pricing-we-provide-new-insights-rr-at-econometric-reviews",
           title: 'Are existing $\ell_1$-based methods providing a fair benchmark to evaluate the trade-off between...',
           description: "",
