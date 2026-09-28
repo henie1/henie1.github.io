@@ -56,10 +56,12 @@ ninja.data = [{
           section: "News",},{id: "news-we-are-revising-a-review-of-economic-dynamics-r-amp-amp-r-co-authored-with-my-phd-student-at-whu-on-how-consumption-taxes-influence-the-duration-of-the-zero-lower-bound",
           title: 'We are revising a Review of Economic Dynamics R&amp;amp;amp;R, co-authored with my PhD...',
           description: "",
-          section: "News",},{id: "news-could-firms-liquidity-choices-namely-the-balance-between-internal-cash-holdings-and-external-finance-determine-when-sunspot-traps-arise-our-paper-shows-that-they-do",
-          title: 'Could firms’ liquidity choices, namely the balance between internal cash holdings and external...',
+          section: "News",},{id: "news-sunspot-traps",
+          title: 'Sunspot Traps',
           description: "",
-          section: "News",},{id: "news-ppe-investment-factor",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-08-12-sunspot-traps/";
+            },},{id: "news-ppe-investment-factor",
           title: 'Ppe Investment Factor',
           description: "",
           section: "News",handler: () => {
