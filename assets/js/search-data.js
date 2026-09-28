@@ -59,9 +59,6 @@ ninja.data = [{
           section: "News",},{id: "news-could-firms-liquidity-choices-namely-the-balance-between-internal-cash-holdings-and-external-finance-determine-when-sunspot-traps-arise-our-paper-shows-that-they-do",
           title: 'Could firms’ liquidity choices, namely the balance between internal cash holdings and external...',
           description: "",
-          section: "News",},{id: "news-are-existing-ell-1-based-methods-providing-a-fair-benchmark-to-evaluate-the-trade-off-between-weak-dense-and-sparse-strong-factor-views-in-asset-pricing-we-provide-new-insights",
-          title: 'Are existing $\ell_1$-based methods providing a fair benchmark to evaluate the trade-off between...',
-          description: "",
           section: "News",},{id: "news-ppe-investment-factor",
           title: 'Ppe Investment Factor',
           description: "",
@@ -72,7 +69,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-11-15-bitcoin-salience/";
-            },},{
+            },},{id: "news-are-existing-ell-1-based-methods-providing-a-fair-benchmark-to-evaluate-the-trade-off-between-weak-dense-and-sparse-strong-factor-views-in-asset-pricing-we-provide-new-insights-rr-at-econometric-reviews",
+          title: 'Are existing $\ell_1$-based methods providing a fair benchmark to evaluate the trade-off between...',
+          description: "",
+          section: "News",},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
