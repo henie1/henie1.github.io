@@ -64,6 +64,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-the-real-cost-channel-and-optimal-labor-taxation-at-the-zero-lower-bound-coauthored-with-haoan-wang-and-haochun-ma-has-been-published-in-the-journal-of-public-economic-theory",
           title: 'Our paper The Real Cost Channel and Optimal Labor Taxation at the Zero...',
           description: "",
+          section: "News",},{id: "news-our-paper-about-the-real-cost-channel-and-expectations-driven-liquidity-traps-rr-at-the-journal-of-economic-behavior-amp-amp-organization",
+          title: 'Our paper about The Real Cost Channel and Expectations-Driven Liquidity Traps RR at...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
