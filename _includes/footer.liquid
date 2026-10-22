@@ -23,8 +23,48 @@
       {% include newsletter.liquid %}
     {% endif %}
 
-    <div class="container">
-      {{ footer_contents }}
-    </div>
+
+<div class="container">
+  {{ footer_contents }}
+
+  <div class="visitor-stats"
+       style="text-align:center; margin:12px auto 0;
+              max-width:500px;">
+
+    <script src="https://feed-pulse.com/api/embed/flag-counter.js?site_id=7c8a8f31-213c-4494-b4c2-7a6e709890f8&w=320&bc=ffffff&tc=0A0A0A&brd=E5E7EB&hb=002FA7&hf=ffffff&font=IBM+Plex+Sans&rows=3&cols=3&cod=1&poll=5000&nobot=0&lang=en&bstyle=minimal&v=15" async></script>
+
+    <script>
+      (function(){
+        function g(){
+          try {
+            var i = new Image();
+            var t = (document.title || '').slice(0,160);
+            i.src = 'https://feed-pulse.com/api/track-pixel/7c8a8f31-213c-4494-b4c2-7a6e709890f8?path='
+              + encodeURIComponent(location.pathname || '/')
+              + '&title=' + encodeURIComponent(t)
+              + '&host=' + encodeURIComponent(location.host)
+              + '&ref=' + encodeURIComponent(document.referrer || '');
+          } catch(e){}
+        }
+        if(document.readyState === 'loading'){
+          document.addEventListener('DOMContentLoaded',g,{once:true});
+        } else {
+          setTimeout(g,80);
+        }
+      })();
+    </script>
+
+    <noscript>
+      <img
+        src="https://feed-pulse.com/api/track-pixel/7c8a8f31-213c-4494-b4c2-7a6e709890f8?via=img&nojs=1"
+        referrerpolicy="no-referrer-when-downgrade"
+        style="position:absolute;width:1px;height:1px;border:0;opacity:0;pointer-events:none;"
+        alt=""
+      />
+    </noscript>
+
+  </div>
+</div>
+
   </footer>
 {% endif %}
