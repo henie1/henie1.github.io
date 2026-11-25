@@ -19,12 +19,12 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 4
+  limit: 5
 
 latest_posts:
   enabled: false
   scrollable: true
-  limit: 3
+  limit: 5
 ---
 
 I am an (untenured) Associate Professor of Finance at the School of Economics and Management, **Wuhan University**. My research lies at the intersection of **macroeconomics** and **asset pricing**, with current work on the real cost channel of monetary transmission, fiscal policy under the zero lower bound, and the empirics of Chinese stock and cryptocurrency markets. I also serve as Associate Editor at *[Financial Economics Letters](https://www.anserpress.org/journal/fel)*.
